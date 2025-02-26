@@ -1,0 +1,852 @@
+[
+    {
+        "eventID": 1,
+        "eventName": "THE RENAISSANCE CIRCUIT",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "Round 1 - The Arena\nTeams will be paired randomly for the competition. An arena will be set up with each pair positioned on opposite sides. As series of seven questions will be presented, and the team that activates the buzzer first will earn the chance to answer. The team that answers correctly will advance to the next round, while the losing team will be eliminated.\n\n\n\nRound 2 - The Forge of Innovation\nA real-world case study will be provided to the qualifying team, who will analyze the case and present their innovative ideas to the jury through engaging presentations.\n\n\n\nRound 3 - Judgement\nIn the debate round, teams will be paired again to go head-to-head. Members will be assessed by the forum on key performance criteria. Stand out to secure your spot!",
+        "venue": "CR4",
+        "time": "Round 1: 11:00 am - 12:30 pm\nRound 2: 2:00 pm - 3:30 pm\nRound 3: 4:00 pm - 5:30 pm",
+        "rules": "Rules will be shared during the event.",
+        "eventFee": 401,
+        "isGroup": 1,
+        "maxTeamSize": 5,
+        "minTeamSize": 4,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEJuvnGixwkRZOvV52HxKAhGCTsmiJLnoEyda7",
+        "firstPrice": "17,000 Rs",
+        "secondPrice": "10,000 Rs",
+        "thirdPrice": "5,000 Rs",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 1,
+                "organizerName": "Vineeth K",
+                "organizerPhoneNumber": "9496575768"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 1,
+                "tagName": "Management Games",
+                "tagAbbrevation": "MGS"
+            }
+        ],
+        "clubID": 2,
+        "clubName": "Ozone",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEYynSWMEKnsrViXaTAywF80qekc2gCdvZHL1M",
+        "clubHead": "Devadarshan ",
+        "clubAbbrevation": "OZONE",
+        "godName": "Hephaestus "
+    },
+    {
+        "eventID": 2,
+        "eventName": "OLYMPIAN CONCLAVE",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "\nShowcase your marketing brilliance in this dynamic competition! From creative charades and problem-solving to crafting live campaigns, this is your chance to win. Compete, create, and conquer! ",
+        "venue": "ASB CR6 & LC12",
+        "time": "11:00 am - 4:15 pm",
+        "rules": "Requirements: Participants are required to bring laptop for the game.",
+        "eventFee": 451,
+        "isGroup": 1,
+        "maxTeamSize": 6,
+        "minTeamSize": 3,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFELwwvm1jpT5FkMQ7hDJOE6CzGA3uNbijWyo9R",
+        "firstPrice": "17,000 ",
+        "secondPrice": "10,000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 2,
+                "organizerName": "Aiswarya Sreenivasan",
+                "organizerPhoneNumber": "7306104589"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 1,
+                "tagName": "Management Games",
+                "tagAbbrevation": "MGS"
+            }
+        ],
+        "clubID": 3,
+        "clubName": "Gen M",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEBuvW4SK1WkZhQvATKaiY5JfdMe0mD7xqGryR",
+        "clubHead": "Thejaswini",
+        "clubAbbrevation": "GEN M",
+        "godName": "Hermas"
+    },
+    {
+        "eventID": 3,
+        "eventName": "FACE PAINTING",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "Immerse in a face-painting experience with vibrant vines, rich purples,\ngolden grapes, and dramatic motifs, celebrating festivity and creativity.\nTransform your look into an elegant yet wild expression of divine\ndecadence and artistic passion.",
+        "venue": "ASB ER3",
+        "time": "11.00 AM - 1.15 PM",
+        "rules": "Participants must bring their own materials. (Paints and necessary stationaries)\nThe maximum time allotted per team is 2 hours. \nThe theme for the face painting is Neo Renaissance incorporate with corporateworld.",
+        "eventFee": 201,
+        "isGroup": 1,
+        "maxTeamSize": 2,
+        "minTeamSize": 2,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "3000",
+        "secondPrice": "2000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 4,
+        "eventName": "CANVA PAINTING",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "\nThe painting blends classical mythology with contemporary elements, showcasing innovation, collaboration, and the joy of success in the corporate world. Rich colors and dynamic forms highlight the harmony between ancient wisdom and modern enterprise.",
+        "venue": "ASB ER4",
+        "time": "11.00 AM - 1.15 PM",
+        "rules": "Participants must bring their own materials. (Any form of painting canbe choosen)\nThe maximum time allotted per participant is 2 hours. \nThe theme for the canvas painting is Neo Renaissance combined withmodern corporate world.Canva sheets will be provided.",
+        "eventFee": 251,
+        "isGroup": 0,
+        "maxTeamSize": 1,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "3500",
+        "secondPrice": "2000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 6,
+        "eventName": "Project Monopoly",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "This engaging and competitive game simulates real estate investment and management, where teams strategize, bid, and trade properties to maximize their wealth.\n\n\nThe game consists of two 60-minute rounds, with the first serving as a knockout round where winners advance.\n\n\nEach team should bid at least twice.\n\n\nEvaluation is based on the total value of the assets and properties owned at the end of the game. \n",
+        "venue": "ER 5",
+        "time": "Round 1 - 11am - 12:30pm\nRound 2 - 2pm - 3:30pm",
+        "rules": "Standard Monopoly rules apply throughout the game.",
+        "eventFee": 325,
+        "isGroup": 1,
+        "maxTeamSize": 2,
+        "minTeamSize": 2,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEuIWxnlVHtcKmTCnpaVfbNs6W9z8UrSOoPBXd",
+        "firstPrice": "12000",
+        "secondPrice": "8000",
+        "thirdPrice": "4000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 6,
+                "organizerName": "Nandagopan",
+                "organizerPhoneNumber": "9496043879"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 2,
+        "clubName": "Ozone",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEYynSWMEKnsrViXaTAywF80qekc2gCdvZHL1M",
+        "clubHead": "Devadarshan ",
+        "clubAbbrevation": "OZONE",
+        "godName": "Hephaestus "
+    },
+    {
+        "eventID": 7,
+        "eventName": "Solo Dance Free Style ",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "A captivating solo freestyle dance blending fluid, dynamic movements\nwith wild abandon, embodying celebration, creativity, and divine\nintoxication. Elegantly merging power and grace, the performance\ntransports the audience to a mythical realm of energy and allure.",
+        "venue": "Sri Krishna Hall (SKH)",
+        "time": "10:00 AM - 2:00 PM\n",
+        "rules": "Single Participant. \nEach participant can take 5 minutes (Prelims). \nProps and costumes to be bought as per the performance. \nSongs can be of your choice (no vulgarity and offensive language) and the songs should be recorded on the pen drive. ",
+        "eventFee": 201,
+        "isGroup": 0,
+        "maxTeamSize": 1,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "4000",
+        "secondPrice": "2000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 8,
+        "eventName": "The Analysis Arena",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "A three-round competition designed to challenge participants' strategic thinking, problem-solving, and teamwork through an engaging journey of artifact auctions, hunts, and assembly puzzles.\n\nROUND 1: MATRIX GAME\n\nTeams will enter a high-stakes auction, strategically bidding on artifact pieces using limited virtual currency. With each round, they must outmaneuver opponents, and make split-second decisions to secure the majority of parts for a single artifact. The auction unfolds in real-time, testing their negotiation skills and competitive instincts as they race to claim ownership of their chosen artifact.\n\nROUND 2: EXCEL ANALYSIS\n\nParticipants will dive into a comprehensive dataset using Microsoft Excel to uncover key insights related to customer orders, sales, shipping, and profit. Through analyzing trends, customer behavior, and regional performance, teams will employ advanced Excel formulas and functions to solve complex problems and generate actionable business insights - all while working without internet access or external tools.\n\nROUND 3: CASE STUDY ANALYSIS\n\nAn analytics-driven challenge where teams dissect real-world management scenarios, leverage data insights to identify key issues, propose innovative solutions, and deliver compelling presentations to a panel of judges.",
+        "venue": "ASB CR2",
+        "time": "Time: 10:30 AM - 3:45 PM",
+        "rules": "Rules will be revealed on the event day.",
+        "eventFee": 300,
+        "isGroup": 1,
+        "maxTeamSize": 2,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEhrY0aLGBaUbp4kAoMLfEPCy87wXDl6TSW1id",
+        "firstPrice": "10,000",
+        "secondPrice": "6000",
+        "thirdPrice": "4000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 9,
+                "organizerName": "Krithik",
+                "organizerPhoneNumber": "9787283323"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 1,
+                "tagName": "Management Games",
+                "tagAbbrevation": "MGS"
+            }
+        ],
+        "clubID": 5,
+        "clubName": "BIZIT",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEr0P1fuQYAteTQI6WRfsqjD1UcNP48VyxH7al",
+        "clubHead": "Sam Selwyn",
+        "clubAbbrevation": "BIZIT",
+        "godName": "Apollo"
+    },
+    {
+        "eventID": 9,
+        "eventName": "Renaissance Riddle Race",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "A thrilling three-round event where participants engage in live artifact options, embark on a challenging scavenger hunt, and experience the excitement of assembling intricate puzzles. ",
+        "venue": "ASB CR2",
+        "time": "Time: 10:30 AM - 3:30 PM",
+        "rules": "Rules will be revealed on the event day.",
+        "eventFee": 300,
+        "isGroup": 1,
+        "maxTeamSize": 5,
+        "minTeamSize": 4,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFE9lBw5P6MKfGjih01e8YHEkm7zXNS4I39TLAU",
+        "firstPrice": "8000",
+        "secondPrice": "5000",
+        "thirdPrice": "3000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 13,
+                "organizerName": "Sam S",
+                "organizerPhoneNumber": "9791492274"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 5,
+        "clubName": "BIZIT",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEr0P1fuQYAteTQI6WRfsqjD1UcNP48VyxH7al",
+        "clubHead": "Sam Selwyn",
+        "clubAbbrevation": "BIZIT",
+        "godName": "Apollo"
+    },
+    {
+        "eventID": 10,
+        "eventName": "The Policy BluePrint",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "A test of HR expertise, creative problem-solving, and policy-making skills across three competitive rounds. Teams tackle trivia, storytelling, and policy design, emphasizing teamwork and innovation.",
+        "venue": "ASB CR5",
+        "time": "Time: 11:00 AM - 1:00 PM",
+        "rules": "Each team will consist of 4 members.\n\nThe competition will have three rounds, each testing participants on their HR knowledge, teamwork, creativity, and problem-solving skills.\n\nParticipants must adhere to the time limits and guidelines provided for each round.\n\nFaculty members from the HR and OB areas will evaluate the final round.",
+        "eventFee": 301,
+        "isGroup": 1,
+        "maxTeamSize": 4,
+        "minTeamSize": 4,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEkJfksXv8qHFXV3QWM9fhCSa5pLw6rKYytIio",
+        "firstPrice": "10,000",
+        "secondPrice": "6000",
+        "thirdPrice": "4000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 8,
+                "organizerName": "Rajlaxme",
+                "organizerPhoneNumber": "7760311207"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 1,
+                "tagName": "Management Games",
+                "tagAbbrevation": "MGS"
+            }
+        ],
+        "clubID": 7,
+        "clubName": "HNET",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFE0qkkTO4Dl2c9fbCxUeapmoTMrVKwEd1Lu6Gj",
+        "clubHead": "Samuel Binoy",
+        "clubAbbrevation": "HNET",
+        "godName": "Athena"
+    },
+    {
+        "eventID": 11,
+        "eventName": "Escape Experiment",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Get ready for an action-packed competition full of surprises! This is your chance to show off your creativity, teamwork, and quick thinking through thrilling and fun tasks. Bring your squad, have a blast, and compete to win amazing prizes!",
+        "venue": "ASB Yoga Hall",
+        "time": "Time: 9:00 AM - 12:00 PM",
+        "rules": "Three Rounds\n\nEach team will consist of 4 members.\n\nThe competition will have three rounds, each testing participants on their strategy, creativity, and problem-solving skills.\n\nParticipants must adhere to the time limits and guidelines provided for each round.\n",
+        "eventFee": 251,
+        "isGroup": 1,
+        "maxTeamSize": 4,
+        "minTeamSize": 4,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEDUR7RAC5j4SqrJYs2QdL0tB3gpHCunGbUkZm",
+        "firstPrice": "10,000",
+        "secondPrice": "8000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 12,
+                "organizerName": "Megha N",
+                "organizerPhoneNumber": "9074391913"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 7,
+        "clubName": "HNET",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFE0qkkTO4Dl2c9fbCxUeapmoTMrVKwEd1Lu6Gj",
+        "clubHead": "Samuel Binoy",
+        "clubAbbrevation": "HNET",
+        "godName": "Athena"
+    },
+    {
+        "eventID": 12,
+        "eventName": "Quest of Olympian Legacy",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Teams will dive into the world of Greek mythology, solving riddles, tackling physical challenges, decoding puzzles, and answering trivia as they race through six clue stations to uncover the ultimate treasure and claim the Olympian legacy!",
+        "venue": "Amrita School of Business",
+        "time": "09:00 am - 12:00 pm",
+        "rules": "Team movement: Teams must move together; no splitting up\n\nAnswer validation: Clues must be verified at each station before moving forward.\n\nHints: Teams can request one hint per clue, but it adds a 2-minute penalty.\n\nFair Play: Teams must not interfere with other teams' progress.",
+        "eventFee": 401,
+        "isGroup": 1,
+        "maxTeamSize": 6,
+        "minTeamSize": 6,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEvjHWsG00NdQ6Uq1c4TnlCPtaMHRpvYoyxX9I",
+        "firstPrice": "15,000",
+        "secondPrice": "10,000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 10,
+                "organizerName": "Abhiram S Narayanan",
+                "organizerPhoneNumber": "9061533911"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 3,
+        "clubName": "Gen M",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEBuvW4SK1WkZhQvATKaiY5JfdMe0mD7xqGryR",
+        "clubHead": "Thejaswini",
+        "clubAbbrevation": "GEN M",
+        "godName": "Hermas"
+    },
+    {
+        "eventID": 13,
+        "eventName": "Budget Quest: Survive the Month",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "Step into the shoes of someone living paycheck to paycheck with Budget Quest: Survive the Month, an engaging and eye-opening simulation that challenges your financial decision-making skills. Test your ability to balance limited resources while navigating essential expenses like housing, food, and healthcare, all while dealing with unexpected life challenges. Join us to experience a unique and thought-provoking activity that blends fun, learning, and real-world financial insights. Register now and take on the challenge!",
+        "venue": "ASB ER1",
+        "time": "Round 1 : 10 am - 12:00 pm \nRound 2 : 1:30 pm - 5: 00 pm",
+        "rules": "Participants must bring their own devices (laptops or tablets) to access the game. \n\nInternet access will be provided at the venue for those who require it. \n\nScreenshots of the game’s final results must be shared with the organizers as proof of completion before starting the presentation preparation.",
+        "eventFee": 401,
+        "isGroup": 1,
+        "maxTeamSize": 2,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFE34QSXw54lFEcABzSKPZx8fwrgv9QnIdGiYmq",
+        "firstPrice": "18,000",
+        "secondPrice": "10,000",
+        "thirdPrice": "6,000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 7,
+                "organizerName": "Arunima M",
+                "organizerPhoneNumber": "8086163530"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 1,
+                "tagName": "Management Games",
+                "tagAbbrevation": "MGS"
+            }
+        ],
+        "clubID": 6,
+        "clubName": "Fortune",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEDq5ONOC5j4SqrJYs2QdL0tB3gpHCunGbUkZm",
+        "clubHead": "Asfia Thahaseen",
+        "clubAbbrevation": "FORTUNE",
+        "godName": "Plutus "
+    },
+    {
+        "eventID": 14,
+        "eventName": "Cricket Strategem",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "Unleash your inner strategist at Cricket Strategem: IPL Auction, the ultimate cricketing showdown where your knowledge meets your tactical genius. Test your cricket expertise in a thrilling quiz, then step into the high-stakes bidding war to assemble your dream IPL team. Manage your purse wisely, bid for the best players, and build a balanced squad that dominates the leaderboard. This event combines cricket passion with strategic thinking, offering a unique and exhilarating experience.",
+        "venue": "Round 1: ASB CR1                Round 2: ER6",
+        "time": "Round 1: March 3rd (10:00 am - 12:00 pm)\nRound 2: March 3rd (2:00 pm - 04:00 pm) & March 4th (11:15 am - 1:15 pm)",
+        "rules": "Rules will be revealed on the event day.",
+        "eventFee": 450,
+        "isGroup": 1,
+        "maxTeamSize": 6,
+        "minTeamSize": 4,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEWztHisa1QOxVc8hyCdsfYowXHqJv3Ge79UnS",
+        "firstPrice": "20,000",
+        "secondPrice": "10,000",
+        "thirdPrice": "8,000",
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 11,
+                "organizerName": "Annam Subhashini",
+                "organizerPhoneNumber": "9577331999"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 6,
+        "clubName": "Fortune",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEDq5ONOC5j4SqrJYs2QdL0tB3gpHCunGbUkZm",
+        "clubHead": "Asfia Thahaseen",
+        "clubAbbrevation": "FORTUNE",
+        "godName": "Plutus "
+    },
+    {
+        "eventID": 15,
+        "eventName": "Group Dance",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Experience a spellbinding group dance blending powerful\nchoreography, vivid storytelling, and captivating music. The\nperformance celebrates indulgence, freedom, and chaos, fusing\npassion and elegance to evoke the enchantment of mythical festivals\nand tales of transformation and celebration.",
+        "venue": "Quadrangle Stage",
+        "time": "1:00 pm - 3:30 pm",
+        "rules": "Each team can take 10 minutes. \nSongs can be of your choice (no vulgarity and offensive language) and the songs should be recorded on the pen drive. \nThe costumes and props could be according to the theme",
+        "eventFee": 801,
+        "isGroup": 1,
+        "maxTeamSize": 8,
+        "minTeamSize": 5,
+        "isPerHeadFee": 0,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "6000",
+        "secondPrice": "3000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 16,
+        "eventName": "Solo Singing",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "With captivating melodies and evocative lyrics, this performance\ncelebrates creativity, transformation, and the spirit of celebration. Let\nthe music awaken your senses, immersing you in timeless tales of\nindulgence, passion, and the power of artistic expression.",
+        "venue": "Sri Krishna Hall (SKH)",
+        "time": " 2:30 PM - 5:30 PM\n",
+        "rules": "Maximum 5 minutes per person. \nParticipants may bring and use up to two instruments of their choice.\nParticipants may bring Karaoke in pen drive.",
+        "eventFee": 200,
+        "isGroup": 0,
+        "maxTeamSize": 1,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "4500",
+        "secondPrice": "2000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 17,
+        "eventName": "GROUP SINGING",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Celebrate the spirit of joy, revelry, and artistic passion, blending\nmelodies that evoke ancient tales and capture the boundless energy of\nlife’s most ecstatic moments.",
+        "venue": "Sri Krishna Hall (SKH)",
+        "time": "10.00 AM - 12.30 PM",
+        "rules": "Maximum 10 minutes per group. \nParticipants may bring and use up to three instruments of their choice.\nParticipants may bring Karaoke in pen drive.",
+        "eventFee": 801,
+        "isGroup": 1,
+        "maxTeamSize": 8,
+        "minTeamSize": 5,
+        "isPerHeadFee": 0,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "5000",
+        "secondPrice": "3000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 19,
+        "eventName": "MIME ACT",
+        "eventDate": "March 3rd 2025",
+        "eventDescription": "Experience an enthralling mime performance blending creativity,\nindulgence, and innovation, reimagining mythical themes in modern\nbusiness culture. Through expressive movement and silent storytelling,\nit explores breaking conventions, embracing passion, and the power of\ncollective joy to inspire new perspectives.",
+        "venue": "ASB ECR",
+        "time": "10.30 AM - 12.30 PM",
+        "rules": "Participants must perform a mime act based on a given theme. Maximum time allotted per team is 5 minutes.The theme for the Mime is Neo Renaissance, transformed with moderncorporate world.Props and costumes should be brought by the participants.Background music should be given in pendrive. (If needed)",
+        "eventFee": 752,
+        "isGroup": 1,
+        "maxTeamSize": 5,
+        "minTeamSize": 4,
+        "isPerHeadFee": 0,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "4500",
+        "secondPrice": "2500",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 20,
+        "eventName": "THE CORPORATE RENAISSANCE",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Teams will explore their creativity and strategic thinking by crafting a\ncorporate story using random, unrelated words. Inspired by the\nRenaissance, this event bridges creativity with corporate acumen,\nshowcasing leadership, innovation, and strategy through storytelling.\n\nRounds:\n1.The Word Draw: Each team member picks random words.\n 2.Story Crafting: Teams create a story incorporating all words and a Renaissance theme.\n3.The Stage Show: Perform your story as a skit or narrative pitch.",
+        "venue": "ASB ECR",
+        "time": "10.00 AM - 11.30 AM",
+        "rules": "All 5 words must be used in the story.\nStories must be crafted within 30 mins.\nStage presentations must not exceed 10 minutes.\nOffensive content or theme deviation leads to disqualification.",
+        "eventFee": 751,
+        "isGroup": 1,
+        "maxTeamSize": 5,
+        "minTeamSize": 4,
+        "isPerHeadFee": 0,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "5000",
+        "secondPrice": "3000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    },
+    {
+        "eventID": 21,
+        "eventName": "CORPORATE WALK [Mr.&Ms.]",
+        "eventDate": "March 4th 2025",
+        "eventDescription": "Walk up! Showcase your personality, communication, agility, and\nadaptability through professional challenges, reflecting modern\ncorporate ethos. Combine elegance and creativity, celebrating\nconfidence and professionalism in a dynamic, engaging format.\n\nRounds:\n1.Renaissance Ramble: A stylish ramp walk in business attire with a Renaissance twist.\n2.Q&A : The Renaissance Persona: Answer thought-provoking questions",
+        "venue": "Sri Krishna Hall (SKH) - ASB",
+        "time": "1.00 PM - 2.40 PM",
+        "rules": "Participants must adhere to theprofessional dress code. \nParticipants must bring their ownprops and costumes.",
+        "eventFee": 200,
+        "isGroup": 0,
+        "maxTeamSize": 1,
+        "minTeamSize": 1,
+        "isPerHeadFee": 1,
+        "eventImageUrl": "https://bxuaap8opu.ufs.sh/f/MsJIkjrEGVbOnRtuRn8Qt89vdIL0FpmXP4YrljNo6Ewua2Jy",
+        "firstPrice": "4000",
+        "secondPrice": "2000",
+        "thirdPrice": null,
+        "fourthPrice": null,
+        "fifthPrice": null,
+        "organizers": [
+            {
+                "organizerID": 3,
+                "organizerName": "Suganth Vaibav",
+                "organizerPhoneNumber": "9940880052"
+            },
+            {
+                "organizerID": 4,
+                "organizerName": "Gurucharan",
+                "organizerPhoneNumber": " 7010775817"
+            },
+            {
+                "organizerID": 5,
+                "organizerName": "Shreelekha",
+                "organizerPhoneNumber": "8778950690"
+            }
+        ],
+        "tags": [
+            {
+                "tagID": 2,
+                "tagName": "Non Management Games",
+                "tagAbbrevation": "NGS"
+            }
+        ],
+        "clubID": 1,
+        "clubName": "Sanskriti",
+        "clubImageUrl": "https://qf4lnt8g2g.ufs.sh/f/3rdVoW154lFEaDxHgRx9u84PitL6lJV2fONXekECqcYd3G1B",
+        "clubHead": "Suganth Vaibav",
+        "clubAbbrevation": "SANSKRITI",
+        "godName": "Dionysus "
+    }
+]
