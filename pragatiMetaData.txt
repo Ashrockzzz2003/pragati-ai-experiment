@@ -18,6 +18,7 @@ ANCIENT WISDOM with INNOVATION
 Are you ready to accept the challenge?
 Where GODS meet INNOVATION
 Brochure https://pragati.amrita.edu/brochure
+Open for all college students across the world.
 </AboutPragati>
 
 <HowToRegister>
@@ -28,14 +29,16 @@ Click on the register for events button
 Select the event you want to participate in
 read the rules and regulations
 click on register button below the event poster and fill the required details.
+For group events, all team members must have an account on Pragati'25 website and the team leader must register the team. Team leader will be paying the registration fee.
 You will be redirected to the payment gateway
 Complete the payment process
 You will be redirected to verification page. Transaction will be successful only after verification.
-In your profile, you can see the events you have registered for.
+In your profile, you can see the events you have registered for along with the transaction details.
 </HowToRegister>
 
 <Accomodation>
 Send an email to pragatiinfo@cb.amrita.edu with the subject line “[Accommodation Request]”.
+Answer questions on how to reach campus. The Google Maps location is https://maps.app.goo.gl/wyHtzN7Wbk4m1Jp17. 1 hour away from the Coimbatore Railway Station and Airport. Best mode of transport is by cab/train. Campus is located in Ettimadai, Coimbatore. Contact the accommodation team for further details.
 </Accomodation>
 
 <ContactUs>
