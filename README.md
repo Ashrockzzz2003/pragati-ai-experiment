@@ -1,5 +1,7 @@
 # Pragati AI - Chatbot Experiment
 
+Integrated to https://github.com/Pragati-2025/pragati_web
+
 `Google Gemini`
 
 ## Introduction
